@@ -18,10 +18,10 @@ You can use the Custom Package Rosetta 2 Preinstall.sh script as a preinstall sc
 if this is a part of your prestage enrollment then computers will install rosetta during prestage.
 
 This is how I set this up in Composer
-![ComposerPreinstall](https://github.com/theadamcraig/jamf-scripts/blob/master/JNUC2022/Screenshots/ReferenceFile_Rosetta_Preinstall.png)
+![ComposerPreinstall](https://github.com/theadamcraig/jnuc2022/blob/main/Screenshots/ReferenceFile_Rosetta_Preinstall.png)
 
 This is how I set his up the packages in prestage enrollment
-![PrestageEnrollment](https://github.com/theadamcraig/jamf-scripts/blob/master/JNUC2022/Screenshots/Prestage_Enrollment_Packages.png)
+![PrestageEnrollment](https://github.com/theadamcraig/jnuc2022/blob/main/Screenshots/Prestage_Enrollment_Packages.png)
 
 ### Jamf Connect - Installed Check
 
