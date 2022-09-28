@@ -14,7 +14,7 @@ The Restore Browser Data script looks for the backup and replaces the same folde
 
 These policies are intended for use via SelfService and provide a convenient way for users to move bookmarks, history and tabs from an old computer to a new computer.
 
-![selfservice_browser_data](https://github.com/theadamcraig/jamf-scripts/blob/master/JNUC2022/Screenshots/selfservice_browser_data.png)
+![selfservice_browser_data](https://github.com/theadamcraig/jnuc2022/blob/main/Screenshots/selfservice_browser_data.png)
 
 Supported Browsers are Google Chrome, Firefox, and Brave Browser.
 
