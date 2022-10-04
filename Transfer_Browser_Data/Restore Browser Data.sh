@@ -206,7 +206,6 @@ if [[ -e "${brave_backup}" ]] ; then
 	fi
 	browser_choice="Brave browser"
 	list="${list} \"Brave Browser\""
-	browser_choice="Brave Browser"
 	((choice_number++))
 fi
 
@@ -216,7 +215,6 @@ if [[ -e "${chrome_backup}" ]] ; then
 	fi
 	browser_choice="Google Chrome"
 	list="${list} \"Google Chrome\""
-	browser_choice="Google Chrome"
 	((choice_number++))
 fi
 
@@ -226,7 +224,6 @@ if [[ -e "${firefox_backup}" ]] ; then
 	fi
 	browser_choice="FireFox"
 	list="${list} \"Firefox\" "
-	browser_choice="Firefox"
 	((choice_number++))
 fi
 
