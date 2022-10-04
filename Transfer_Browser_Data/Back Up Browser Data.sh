@@ -182,6 +182,7 @@ if [[ -e "${brave_path}" ]] ; then
 		list="${list},"
 	fi
 	list="${list} \"Brave Browser\""
+	browser_choice="Brave Browser"
 	((choice_number++))
 fi
 
@@ -190,6 +191,7 @@ if [[ -e "${chrome_path}" ]] ; then
 		list="${list},"
 	fi
 	list="${list} \"Google Chrome\""
+	browser_choice="Google Chrome"
 	((choice_number++))
 fi
 
@@ -198,6 +200,7 @@ if [[ -e "${firefox_path}" ]] ; then
 		list="${list},"
 	fi
 	list="${list} \"Firefox\" "
+	browser_choice="Firefox"
 	((choice_number++))
 fi
 
