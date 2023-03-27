@@ -2,6 +2,9 @@
 ## Backup Plans for Zero Touch for IT
 Presented during JNUC 2022
 
+[![Watch the video](https://img.youtube.com/vi/kozZ7AQXPQ/maxresdefault.jpg)](https://youtu.be/kozZ7AQXPQ)
+
+
 These are the scripts referenced during my JNUC 2022 talks and additional supplemental scripts.
 
 ### Jamf Enrollment Kickstarter
